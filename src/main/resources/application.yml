@@ -17,9 +17,9 @@
 #Make a copy called `application.yml` and change the values below.
 
 line.bot:
-  channel-token= 'Put Your Channel Token Here.'
-  channel-secret= 'Put Your Channel Secret Here.'
-handler.path: /callback
+  channel-token: 'wefsdf'
+  channel-secret: 'sdfdsfsf'
+  handler.path: /collback
 
 # To remove Client wire logs. Please comment out following lines.
 # See: https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html
